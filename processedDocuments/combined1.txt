@@ -1,0 +1,240 @@
+Letter of Recommendation 
+October 28, 2021 
+ 
+I am pleased to recommend Karri Sree Hari for his graduate studies in Computer Science at 
+your esteemed university. I was the guide for his undergraduate thesis project and have been 
+associated with him for over a year. Hari is an enthusiastic student with a strong interest in 
+solving real-time problems. 
+ 
+Hari approached with an idea for community detection on twitter in his final semester. Being a 
+student who had no prior experience with NLP, he took it upon himself to implement the stance 
+detection algorithm and was surprised with the short amount of time it took him to get up to 
+speed with the intricacies of the subject. He made use of all the resources available and studied 
+the course material in order to unblock himself. When faced with a multitude of questions 
+regarding the scope of this project, Hari was able to quickly turn it into one that had a practical 
+use case. Hari was always meticulous with his preparation regarding presentations and always 
+took the lead in explaining scenarios that were questioned. He was successful in implementing 
+a novel method of bias detection that would classify twitter user accounts as bots that are 
+pretending to be users. Hari single handedly handled all the documentation and paper writing 
+which led to the submission of the draft to various conferences before deadline stress. This 
+study was published in the Emerging Technologies in Data Mining and Information Security 
+journal and was very well received by the panel members. 
+ 
+Hari was part of a full time internship and worked on the project simultaneously during his final 
+semester. The project was one of the first ones to get accepted in the International Conference 
+on Emerging Technologies in Data Mining and Information Security. Hari is extremely intuitive 
+and loves picking up projects based on his interest as he was one of the only students who had 
+chosen a domain that he was completely unfamiliar with and was still able to deliver an 
+exceptional result. He displayed exceptional time management skills and was always a step 
+ahead in submitting reports and creating drafts of the paper.  
+ 
+Hari was also very active in volunteering his time towards the university’s co-curricular activities. 
+He was part of the Microsoft Innovation Lab for over 3 years and the student head for a period 
+of two years. He has organized various events and always ensured that he managed his course 
+work alongside his contributions to the club. Hari is a talented Beatboxer and has won 
+accolades for the same in college fests. He is very enthusiastic about his endeavours be it in 
+academics or beyond. I would place Hari in the top 5% of his batch academically and put him in 
+the top 2% overall. Given his excellent work ethic, motivation, and desire to excel, I have no 
+doubt he will excel in your program. I recommend him without any reservation. Please feel free 
+to contact me regarding any additional questions. 
+ 
+Bhaskarjyoti Das 
+Professor, Computer Science and Engineering 
+PES University 
+Bangalore, India 
+
+--- Page break ---
+Letter of Recommendation 
+October 18, 2021 
+ 
+It is my pleasure to recommend Karri Sree Hari for the graduate course in Computer Science at 
+your prestigious university. I have had the opportunity to observe Hari closely from various 
+perspectives – as my student, research student and thesis project evaluator over a period of 3 
+semesters. He stood out as an extremely intuitive and capable student. I am happy to hear that 
+he wants to pursue a career in this field and is working accordingly to achieve his goal. 
+ 
+I have known Hari since his 6th semester when I taught him a course on Computer Network 
+Security followed by a course on Information Security the following semester. Hari was a top 
+student of my class both in terms of his grade in the course and qualities that he possesses 
+beyond the transcript. He would be zealous in taking up practical network attack simulations and 
+went the extra mile to stay up to date in the world of attacks on corporations and breaches of 
+networks. Hari was specially interested in the social engineering aspects of many case studies, 
+such as those of breaches using stuxnet in Iran’s nuclear facility and Target along with the 
+technicalities.  
+ 
+I agreed to guide Hari due to his enthusiasm and analytical skills. He worked on an approach to 
+secure wireless Internet of Things (IoT) Networks without increasing the cost of IoT systems, 
+majorly changing network topology or adversely affecting any other unique selling points of IoT.  
+This was achieved by clustering microcontrollers in physical proximity to use a single device for 
+connecting to the edge device. This link was secured using an efficient tunnelling protocol for all 
+communication. This approach was built for and tested on an automated classroom setup and 
+was successful in preventing packet sniffing and external control of the devices which could 
+make them a part of a botnet. This approach required no changes in the existent IoT 
+architecture and only minor changes in the network topology. The research resulted in a paper 
+presented at the International Conference on Communication, Computing and Electronics 
+Systems in Coimbatore, India and published in the Springer Lecture Notes in Electrical 
+Engineering series. Hari’s quirky and out of the box thinking was seen when the team had to 
+solve issues with hardware. He was able to overcome tunnel vision by repeated swapping of 
+work between team members that led to quick resolution to the problems that arose. He proved 
+to be capable of delegating work that maximised each team member’s skills and working in a 
+dynamic environment. 
+ 
+I am of the opinion that Hari is prepared for graduate school on account of his proven 
+persistence, resilience, and analytical ability. His industrial experience which involved building 
+end to end applications has given him a better idea about the practical aspects of Computer 
+Science and will aid his ability to fulfil the requirements for graduate school. With great 
+conviction I can recommend that Hari would be an excellent fit for your graduate cohort. 
+ 
+Prof. H B Prasad 
+Director, Centre for Information Security, Forensics and Cyber Resilience 
+PES University 
+
+--- Page break ---
+Bangalore, India 
+ 
+ 
+Additional Points 
+● Hari’s observational skills and awareness was seen when he was able to detect a 
+security flaw in one of the lab’s entrances where the fingerprint lock would shut off in 
+case of a power failure and the door would unlock.  
+● Hari is an extremely efficient organizer when it comes to events and is a talented 
+beatboxer who can entertain crowds. He stood first in the talent show held in the 
+department. 
+
+--- Page break ---
+Letter of Recommendation
+November 21, 2021
+It gives me immense pleasure to recommend Karri Sree Hari for graduate studies in Computer
+Science at your prestigious university. I am the chairperson of the Computer Science and
+Engineering department and have observed Hari from different perspectives, as a student,
+research student and event organizer.
+I have known Hari since his 3rd semester when I taught his a course on Data
+Structures. The course covered topics ranging from the basics of abstract data types to advanced
+topics like Tries and Hashing. Hari was a top student of my class both in terms of his grade in
+the course and qualities that he possesses beyond the transcript. In class, he was an active
+listener and he always participated in discussions. He took on every assignment, even the
+optional ones, in stride and saw to their timely completion.
+As his thesis project evaluator I was impressed by the detail and preparedness of his demos and
+presentations. His project involved detection of bias in a set of tweets regarding a certain topic.
+It started out as a community detection algorithm but transformed iteratively into a use case
+that was experimented on real time data. He was able to overcome the initial ambiguity with the
+problem statement in a very short span of time and made excellent use of the feedback to deliver
+a clear goal at the following presentation. Hari was extremely enthusiastic about improving the
+accuracy of the stance detection and procured data from Professors in the University of Houston
+to train his model better. The results were accurate in terms of showing how specific accounts
+brought bias into the community. These findings were published in the Emerging Technologies
+in Data Mining and Information Security journal.
+Hari was also very active in volunteering his time towards the university’s co-curricular
+activities.
+He has assumed several leadership roles while organizing multiple events. Hari has excellent
+communication skills which were seen first hand when he had to organise events and host panel
+evaluators during the annual exhibition, Prakalpa. Hari is extremely talented as he is one of the
+only people in the college who has mastered beatboxing and won prizes in events.
+Hari has continued to work on his interests alongside his industry experience. He is very
+enthusiastic about his endeavours be it in academics or beyond. I would place Hari in the top
+25% of his batch academically and put him in the top 5% overall. Given his excellent work ethic,
+motivation, and desire to excel, I have no doubt he will excel in your program. I recommend him
+without any reservation. Please feel free to contact me regarding any additional questions.
+Dr. Shylaja S S
+Chairperson, Computer Science and Engineering
+PES University
+Bangalore, India
+https://staff.pes.edu/nm1297
+
+--- Page break ---
+
+--- Page break ---
+Statement of Purpose of Karri Sree Hari
+"Speed. Faster than fast, quicker than quick. I am Lightning." - Lightning McQueen. The ingenuous
+8 year old me, inspired by anthropomorphic cars, was eager to be the fastest at everything. With this
+newfound zeal, I ensured that I fulﬁlled my desires, whether it was to achieve the highest grade in class,
+to win a quiz, or to outperform others in abacus competitions. Being an avid fan of Formula 1, I acknowl-
+edge the impact of a fraction of a second in information ﬂow and the ramiﬁcations it may have on end
+results. My experience in designing algorithms and conceptual understanding of networks deepened my
+realization of how existing designs can be transformed into vastly superior models by optimization. I am
+keen on improving the eﬃciency of algorithms and networks, by fortifying my skills at the San Jose State
+University (SJSU).
+In my ﬁrst semester of college, I witnessed real-world applications of algorithmic solutions, when I
+attended a roadshow presented by Microsoft Innovation Labs, a lab setup in PES University that funds
+internships and events for selected students in college. Determined to bolster my experience in inter-
+domain projects, I was among the top 4% of freshmen who secured an internship at the lab for the
+summer. I worked on a project that detects user sentiments in a Twitter account over a period of time
+and provides suggestions to lift the mood of the user, by using events detected in their positively catego-
+rized tweets. This project was awarded 4th place amidst 25 teams in Honeywell’s “Power Of Connected
+Hackathon”. My knack for public speaking, people management, logistical skills, and contributions to the
+projects, earned me the prestigious role as the student head for the lab, where I co-led the internship
+program for 40 students, the following year. Constant involvement in the student community, shouldering
+responsibilities for events, winning beatbox competitions, partaking in team sports, and regularly con-
+tributing to the Akshaya Patra Foundation which aims to counter classroom hunger and aid education of
+underprivileged kids have broadly developed my personality.
+The level of eﬃciency with which Peer-to-Peer (P2P) networks share large ﬁles at blazing speeds ex-
+cites me. Intrigued by the piece selection algorithm, I implemented a pure P2P chat and ﬁle sharing client
+that was tested on multiple users and successfully transferred large ﬁles through the campus network. My
+professor’s valuable insights on data-stealing vulnerabilities that my implementation was susceptible to
+taught me about how it can be optimized into a hybrid P2P network. The depth of complexity in Net-
+working inspired me to choose the Computer Network Security (CNS) and Advanced Computer Networks
+electives for my 6th semester.
+I studied the use of IoT devices infected with the Mirai virus to launch a DDoS attack during the CNS
+course and it compelled me to ﬁnd a solution to BotNet attacks using IoT devices. I collaborated with
+my teammates to explore how using Virtual Private Networks’ underlying protocols can aid in masking
+data packets from external networks. I was exposed to various technologies in the ﬁeld, such as Layer
+2 and Point to Point Tunneling Protocols that were used for testing this theory. We were successful in
+preventing packet sniﬃng and man in the middle attacks through this research endeavor. This work was
+presented at the ICCCES 2019 conference and subsequently published in a reputed Springer journal.
+Wanting to extend my boundaries in conducting research, my hard work and perseverance earned me
+an internship at the Indian Space Research Organization (ISRO). During my internship, I worked on a
+project that aimed to ﬁnd the polynomial that represented the most inﬂuential features for any given
+data-set, as a combination of Legendre polynomials. I optimized the evaluation of the best ﬁtting polyno-
+mial by using greedy methods gleaned from the Advanced Algorithms elective. This work was extremely
+enriching as it allowed me to collaborate with brilliant scientists in the Controls Division in charge of
+orbital control of satellites.
+1
+
+--- Page break ---
+The Netﬂix documentary “The Social Dilemma” displayed how social media can be leveraged as a
+tool to sway the opinions of the masses. Witnessing the negative eﬀects of misinformation spread and
+biased opinions on the CAA-NRC legislation that was shared on Twitter inspired me to work on the
+problem, as a part of my capstone project in my ﬁnal semester. Our team analyzed Twitter users who
+had any activity regarding the topic and classiﬁed their tweets as positive, negative, or neutral using
+stance detection. Working on Long Short Term Memory (LSTM) networks as part of the Topics In Deep
+Learning elective enabled me to duly apply my knowledge and implement a multiclass classiﬁer using
+bi-directional LSTMs and Convolutional Neural Networks. Unsettled by the initial accuracy, I procured
+a much larger data set from Dr. Marjan Hosseinia from the University of Houston that helped our model
+achieve a 93% accuracy in classifying tweets. The established metrics resulted in successfully detecting
+bots and identifying accounts that were spreading propaganda. This echoed the observation from “The
+Social Dilemma” where a user was inﬂuenced by an online proﬁle that led to his arrest. With invaluable
+mentorship from Prof. Bhaskarjyoti Das, this study was published in the Emerging Technologies in Data
+Mining and Information Security book as part of the proceedings in the IEMIS 2020 conference.
+Alongside the capstone project, I opted to pursue an internship at Epsilon (Digital Marketing), Ben-
+galuru as a Software Developer for ﬁve months, where my technical competence and commitment earned
+me an oﬀer for the role of a permanent employee. Using my strong foundation in Java and Python program-
+ming, I contributed to modifying and developing new REST APIs, Angular applications, AWS Lambdas,
+and setting up the CI/CD infrastructure for a centralized service. Consistently exceeding expectations
+and being a strong performer, I was recognized and awarded multiple prizes and several appreciation
+emails. This professional association enabled me to learn multiple tech stacks and implement practical
+solutions with utmost commitment to deliver impactful work while working within strict boundaries of
+time. I intend to complement my learning in the industry with a master’s degree in SJSU to develop skills
+that will be valuable in my goal to build optimized networks and systems.
+SJSU’s MS in Computer Science promises to give me a taste of all aspects of networking and systems
+pertinent to my areas of interest. I wish to gain insights in this direction, by opting for courses on Social
+Network Analysis, Parallel Processing, and Database Systems, taught by revered professors Dr. Katerina
+Potika, Dr. Robert K Chun and Dr. Tsau Lin. Published work on "Overlapping Community Detection"
+and "Fake News Analysis and Graph Classiﬁcation" by Dr. Katerina Potika are examples of projects that
+I would like to build upon. I am captivated by the prospect of unearthing insights on how the eﬀects of
+social networks inﬂuence individuals.
+The heavy inﬂuence technology has on our minds is exponentially greater than any previous genera-
+tion. It is of paramount importance that we solve issues in a manner that does not have profound negative
+impacts on the human mind and society. The wealth of knowledge I will amass from graduate courses,
+combined with my strong foundation in Computer Science and experience in conducting research will
+equip me with technical skills to build scalable, eﬃcient, and ethical software and systems.
+Initiatives such as CommUniverCity are speciﬁcally relevant to my interests and highlight the support
+that SJSU provides for holistic development. Furthermore, I am keen on joining student organizations
+such as the Developer Student Club and Computer Science Club to collaborate with like-minded individ-
+uals from across disciplines, as well as be in touch with its illustrious Alumni Network.
+I am glad that the mission of SJSU’s Computer Science Program is to ensure the responsible de-
+velopment of systems and networks to beneﬁt society. It reassures me that SJSU will be the perfect
+university for me to explore the interdisciplinary links between networking, algorithms, and governance
+for the betterment of society.
+2
+
+--- Page break ---
